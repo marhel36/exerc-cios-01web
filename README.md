@@ -24,8 +24,7 @@
         <p></p>
      <h6><b>QUEM FAZ PARTE DO GRUPO DE RISCO?</b></h6>
      
-     <h7><b>
- Os idosos são os que mais correm riscos. A partir dos 65 anos, a taxa de mortalidade cresce exponencialmente. Por exemplo, na China: a taxa de mortalidade entre os infectados até 40 anos é de 0,2%. Entre 70 e 79 anos, é de 8%. E acima de 80 anos, sobe para 14,8%. Por isso, principalmente os idosos deverão se cuidar nas próximas semanas ou meses, e mais ainda se eles já tiverem alguma outra doença. Esse grupo de risco deve de todas as maneiras evitar aglomerações.</b></h7>
+     <h7><b>Os idosos são os que mais correm riscos. A partir dos 65 anos, a taxa de mortalidade cresce exponencialmente. Por exemplo, na China: a taxa de mortalidade entre os infectados até 40 anos é de 0,2%. Entre 70 e 79 anos, é de 8%. E acima de 80 anos, sobe para 14,8%. Por isso, principalmente os idosos deverão se cuidar nas próximas semanas ou meses, e mais ainda se eles já tiverem alguma outra doença. Esse grupo de risco deve de todas as maneiras evitar aglomerações.</b></h7>
     <h8>
     <ul>
  <li>Lavar as mãos frequentemente com água e sabonete por pelo menos 20 segundos. Se não houver água e sabonete, usar um desinfetante para as mãos à base de álcool, como álcool em gel.</li>
