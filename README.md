@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <title>PÁGINA SOBRE O COVID-19!</title>
+   
 </head>
 <body>
     <h1>INFORMAÇÕES SOBRE O COVID-19!</h1>
