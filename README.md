@@ -37,6 +37,6 @@ Ficar em casa quando estiver doente.</li>
  <liEvitar abraços, beijos e apertos de mãos.</li>
  <li>Manter distância de até 1 metro das pessoas.</li>
 <li>Profissionais de saúde devem utilizar medidas de precaução padrão, de contato e de gotículas (máscara cirúrgica, luvas, avental não estéril e óculos de proteção)</li> </ul> </h8>
-        <h9>MARIA HELOÍSA NUNES NEVES 1 AMO BII</h9>
-</body>se
+        <h9>MARIA HELOÍSA NUNES NEVES 1 ANO BII</h9>
+</body>
 </html>
